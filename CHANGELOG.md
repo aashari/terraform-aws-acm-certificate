@@ -1,6 +1,6 @@
 ## v0.2.1 (Feb 19, 2020)
 
-FEATURES:
+NOTES:
 
 * Update README.md to be informative
 
